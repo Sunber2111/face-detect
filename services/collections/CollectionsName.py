@@ -1,0 +1,2 @@
+UserCollection = 'users'
+AccountColection = 'accounts'
